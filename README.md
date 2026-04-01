@@ -13,7 +13,6 @@ The objective was to extract product information, clean the dataset, and generat
 - NumPy
 - Matplotlib
 - Seaborn
-- BeautifulSoup (Web Scraping)
 
 ---
 
@@ -52,7 +51,6 @@ The objective was to extract product information, clean the dataset, and generat
 ---
 
 ## 🎯 Skills Demonstrated
-- Web Scraping
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
