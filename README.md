@@ -43,10 +43,6 @@ The objective was to extract product information, clean the dataset, and generat
 
 ---
 
-## 📁 Repository Structure
-- `Washing Machine_Webscraping_Data Cleaning.ipynb` → Scraping + Cleaning + EDA
-- `washing_machine_dataset.csv` → Cleaned dataset
-- `README.md` → Project documentation
 
 ---
 
